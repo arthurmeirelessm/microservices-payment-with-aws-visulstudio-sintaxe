@@ -1,0 +1,15 @@
+C:\mcroserices-with-dotnetandaws-visualStudio\microservices-fornecedores-consumidores\microservices-fornecedores-consumidores\bin\Debug\net6.0\SQS.Fornecedor.exe
+C:\mcroserices-with-dotnetandaws-visualStudio\microservices-fornecedores-consumidores\microservices-fornecedores-consumidores\bin\Debug\net6.0\SQS.Fornecedor.deps.json
+C:\mcroserices-with-dotnetandaws-visualStudio\microservices-fornecedores-consumidores\microservices-fornecedores-consumidores\bin\Debug\net6.0\SQS.Fornecedor.runtimeconfig.json
+C:\mcroserices-with-dotnetandaws-visualStudio\microservices-fornecedores-consumidores\microservices-fornecedores-consumidores\bin\Debug\net6.0\SQS.Fornecedor.dll
+C:\mcroserices-with-dotnetandaws-visualStudio\microservices-fornecedores-consumidores\microservices-fornecedores-consumidores\bin\Debug\net6.0\SQS.Fornecedor.pdb
+C:\mcroserices-with-dotnetandaws-visualStudio\microservices-fornecedores-consumidores\microservices-fornecedores-consumidores\obj\Debug\net6.0\SQS.Fornecedor.csproj.AssemblyReference.cache
+C:\mcroserices-with-dotnetandaws-visualStudio\microservices-fornecedores-consumidores\microservices-fornecedores-consumidores\obj\Debug\net6.0\SQS.Fornecedor.GeneratedMSBuildEditorConfig.editorconfig
+C:\mcroserices-with-dotnetandaws-visualStudio\microservices-fornecedores-consumidores\microservices-fornecedores-consumidores\obj\Debug\net6.0\SQS.Fornecedor.AssemblyInfoInputs.cache
+C:\mcroserices-with-dotnetandaws-visualStudio\microservices-fornecedores-consumidores\microservices-fornecedores-consumidores\obj\Debug\net6.0\SQS.Fornecedor.AssemblyInfo.cs
+C:\mcroserices-with-dotnetandaws-visualStudio\microservices-fornecedores-consumidores\microservices-fornecedores-consumidores\obj\Debug\net6.0\SQS.Fornecedor.csproj.CoreCompileInputs.cache
+C:\mcroserices-with-dotnetandaws-visualStudio\microservices-fornecedores-consumidores\microservices-fornecedores-consumidores\obj\Debug\net6.0\SQS.Fornecedor.dll
+C:\mcroserices-with-dotnetandaws-visualStudio\microservices-fornecedores-consumidores\microservices-fornecedores-consumidores\obj\Debug\net6.0\refint\SQS.Fornecedor.dll
+C:\mcroserices-with-dotnetandaws-visualStudio\microservices-fornecedores-consumidores\microservices-fornecedores-consumidores\obj\Debug\net6.0\SQS.Fornecedor.pdb
+C:\mcroserices-with-dotnetandaws-visualStudio\microservices-fornecedores-consumidores\microservices-fornecedores-consumidores\obj\Debug\net6.0\SQS.Fornecedor.genruntimeconfig.cache
+C:\mcroserices-with-dotnetandaws-visualStudio\microservices-fornecedores-consumidores\microservices-fornecedores-consumidores\obj\Debug\net6.0\ref\SQS.Fornecedor.dll

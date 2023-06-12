@@ -1,0 +1,5 @@
+C:\mcroserices-with-dotnetandaws-visualStudio\microservices-fornecedores-consumidores\SQS.Consumidor\obj\Debug\net6.0\SQS.Consumidor.csproj.AssemblyReference.cache
+C:\mcroserices-with-dotnetandaws-visualStudio\microservices-fornecedores-consumidores\SQS.Consumidor\obj\Debug\net6.0\SQS.Consumidor.GeneratedMSBuildEditorConfig.editorconfig
+C:\mcroserices-with-dotnetandaws-visualStudio\microservices-fornecedores-consumidores\SQS.Consumidor\obj\Debug\net6.0\SQS.Consumidor.AssemblyInfoInputs.cache
+C:\mcroserices-with-dotnetandaws-visualStudio\microservices-fornecedores-consumidores\SQS.Consumidor\obj\Debug\net6.0\SQS.Consumidor.AssemblyInfo.cs
+C:\mcroserices-with-dotnetandaws-visualStudio\microservices-fornecedores-consumidores\SQS.Consumidor\obj\Debug\net6.0\SQS.Consumidor.csproj.CoreCompileInputs.cache
